@@ -8,7 +8,7 @@ public class Login {
         final String LOGIN = "admin";
         final String PASSWORD = "123";
 
-        String userLogin;  String userPassword;
+        String userLogin, userPassword;
 
         int totalCount = 0;
 
